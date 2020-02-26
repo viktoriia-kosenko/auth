@@ -61,3 +61,5 @@ typings/
 .next
 
 *.sqlite3
+
+README.md
